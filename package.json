@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-live-trades",
+  "version": "1.0.0",
+  "description": "Hardhat project ready to go on Windows",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  }
+}
